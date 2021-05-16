@@ -1,13 +1,13 @@
 permalink: ':category/:year/:monthName/:slug'
 categories:
-  - key: 'category1'
-    title: 'Category 1'
-  - key: 'category2'
-    title: 'Category 2'
+  - key: 'functional'
+    title: 'Functional Documentation'
+  - key: 'technical'
+    title: 'Technical Documentation'
 authors:
-  - name: 'Author Two'
-    avatar: 'assets/images/avatar.jpg'
-    email: 'email@domain.tld'
+  - name: 'Prashant Maroli'
+    avatar: 'assets/images/prashant.jpg'
+    email: 'prashant.maroli@evolvussolutions.com'
 postPages:
   author: 'Author One'
   layout: single
