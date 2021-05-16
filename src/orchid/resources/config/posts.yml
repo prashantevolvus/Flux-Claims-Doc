@@ -1,8 +1,8 @@
 permalink: ':category/:year/:monthName/:slug'
 categories:
-  - key: 'category 1'
+  - key: 'category1'
     title: 'Functional Documentation'
-  - key: 'category 2'
+  - key: 'category2'
     title: 'Technical Documentation'
 authors:
   - name: 'Prashant Maroli'
