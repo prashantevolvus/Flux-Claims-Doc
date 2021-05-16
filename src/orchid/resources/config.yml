@@ -1,8 +1,8 @@
 site:
   about:
-    siteName: 'Orchid Starter'
-    subtitle: 'Basic starter repo to get going with Orchid quickly'
-    siteDescription: 'This is a short blurb you can set below this index layouts sidebar.'
+    siteName: 'Flux Claims Documentation'
+    subtitle: 'Detailed Functional and Technical Documentation of FLux Claims'
+    siteDescription: 'All rights reserved with Evolvus Solutions. You will need appropriate license to access and use information provided in this site.'
     avatar: '/assets/media/logo.jpg'
   theme: 'FutureImperfect'
   baseUrl: 'netlify'
