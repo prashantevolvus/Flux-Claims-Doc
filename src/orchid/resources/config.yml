@@ -35,12 +35,6 @@ theme:
         - 'group3'
   sidebar:
     - type: recentPosts
-      limit: 3
-      category: gallery
-      noWrapper: true
-      template:
-        - 'includes/postPreview_mini'
-    - type: recentPosts
       limit: 5
       category: personal
       noWrapper: true
