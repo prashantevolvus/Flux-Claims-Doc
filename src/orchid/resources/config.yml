@@ -14,7 +14,7 @@ theme:
     other:
       - label: 'linkedin'
         link: 'https://www.linkedin.com/company/evolvus-solutions/mycompany'
-        icon: 'fa-tag'
+        icon: 'fa-linkedin'
   menu:
     - type: "wikiSections"
     - type: 'taxonomy'
