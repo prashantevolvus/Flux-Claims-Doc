@@ -4,7 +4,7 @@ site:
     subtitle: 'Detailed Functional and Technical Documentation of FLux Claims'
     siteDescription: 'All rights reserved with Evolvus Solutions. You will need appropriate license to access and use information provided in this site. Please email your requirement to flux@evolvussolutions.com'
     avatar: '/assets/media/flux-1.png'
-  theme: 'Copper'
+  theme: 'Editorial'
   baseUrl: 'netlify'
 
 theme:
