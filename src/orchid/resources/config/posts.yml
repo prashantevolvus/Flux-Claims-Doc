@@ -9,7 +9,7 @@ authors:
     avatar: 'assets/images/prashant.jpg'
     email: 'prashant.maroli@evolvussolutions.com'
 postPages:
-  author: 'Prashant Maroli''
+  author: 'Prashant Maroli'
   layout: single
   components:
     - type: pageContent
